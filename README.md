@@ -2,22 +2,7 @@
 
 I'm a longtime fighting game fan and someone who loves to discuss game theory.
 
-- 🔭 I’m currently working on my own fighting game
-- 👯 I’m always looking for people who want to collaborate 
-- 💬 Ask me about anything related to game theory/design!
-- ⚡ Favorite games- Tekken, Super Smash Brothers, Black Desert Online, Ori 1 & 2, Ghost of Tsushima, Pokemon BW1, Quake Champions
-
-<!--
-**Oxillian/Oxillian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m currently working on my own fighting game
+- 🤝 Always looking for people who want to collaborate
+- 💬 Ask me about anything related to game theory/design on Discord @Oxillian!
+- 🎮 Favorite games- Tekken, Super Smash Brothers, Black Desert Online, Ori 1 & 2, Ghost of Tsushima, Pokemon BW1, Quake Champions
